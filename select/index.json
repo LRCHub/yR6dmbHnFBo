@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Speedom (Wwc2)",
+  "base_artist": "Tech N9ne",
+  "createdAt": "2025-12-04T23:25:27.023285Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Speedom (Wwc2)",
+      "artist": "Tech N9ne feat. Eminem & Krizz Kaliko",
+      "has_synced": true,
+      "path": "select/01_Speedom_(Wwc2)_Tech_N9ne_feat._Eminem_&_Krizz_Kaliko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Speedom (Wwc2)",
+      "artist": "Tech N9ne, Eminem, Krizz Kaliko",
+      "has_synced": true,
+      "path": "select/02_Speedom_(Wwc2)_Tech_N9ne,_Eminem,_Krizz_Kaliko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Speedom (Wwc2) [feat. Eminem & Krizz Kaliko]",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/03_Speedom_(Wwc2)_[feat._Eminem_&_Krizz_Kaliko]_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Speedom (Wwc2)",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/04_Speedom_(Wwc2)_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Speedom (WWC2)",
+      "artist": "Tech N9ne featuring Eminem & Krizz Kaliko",
+      "has_synced": true,
+      "path": "select/05_Speedom_(WWC2)_Tech_N9ne_featuring_Eminem_&_Krizz_Kaliko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Speedom (Wwc2)",
+      "artist": "Tech N9ne, Eminem, Krizz Kaliko",
+      "has_synced": true,
+      "path": "select/06_Speedom_(Wwc2)_Tech_N9ne,_Eminem,_Krizz_Kaliko.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Speedom (WWC2) (Featuring Eminem & Krizz Kaliko)",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/07_Speedom_(WWC2)_(Featuring_Eminem_&_Krizz_Kaliko)_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Speedom (Wwc2) (feat. Eminem",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/08_Speedom_(Wwc2)_(feat._Eminem_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Speedom (WWC2) (Feat. Eminem, Krizz Kaliko)",
+      "artist": "Tech N9NE",
+      "has_synced": true,
+      "path": "select/09_Speedom_(WWC2)_(Feat._Eminem,_Krizz_Kaliko)_Tech_N9NE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Speedom (Wwc2) (feat. Eminem & Krizz Kaliko)",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/10_Speedom_(Wwc2)_(feat._Eminem_&_Krizz_Kaliko)_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Speedom (Wwc2) (feat. Eminem & Krizz Kaliko)",
+      "artist": "Song",
+      "has_synced": true,
+      "path": "select/11_Speedom_(Wwc2)_(feat._Eminem_&_Krizz_Kaliko)_Song.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Speedom (Wwc2) (feat. Krizz Kaliko & Eminem)",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/12_Speedom_(Wwc2)_(feat._Krizz_Kaliko_&_Eminem)_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tech N9ne - Speedom (WWC2) (feat. Eminem & Krizz Kaliko) | OFFICIAL AUDIO",
+      "artist": "Strange Music Inc",
+      "has_synced": true,
+      "path": "select/13_Tech_N9ne_-_Speedom_(WWC2)_(feat._Eminem_&_Krizz_Kaliko)___OFFICIAL_AUDIO_Strange_Music_Inc.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Speedom (Wwc2)",
+      "artist": "Tech N9ne",
+      "has_synced": false,
+      "path": "select/pl_01_Speedom_(Wwc2)_Tech_N9ne.txt"
+    }
+  ]
+}
