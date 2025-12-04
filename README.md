@@ -1,0 +1,193 @@
+# Tech N9ne – Speedom (Wwc2)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.18] I get to bustin' like I'm a 30 ought six
+[00:02.10] When I'm rippin' the beat up, but then I heard he got pissed
+[00:03.94] When I got at the top and they made him putty hot (ugh)
+[00:05.80] Because he knowin' that Tecca N9ne's a dirty chopper (ugh)
+[00:07.57] He's handle, Holmes, here's a handful
+[00:09.36] How in the hell he hoverin' havin' will go ham though?
+[00:11.17] I said to Seven, "Richie Havens will be the man
+[00:12.57] So we put it together thinkin' Eminem was a gamble (uh)
+[00:40.07] 
+[00:14.73] Guess not, because he be the guest spot
+[00:16.40] Kaliko said, "What we doin'?" – I said to him, "Let's chop!"
+[00:18.33] So now the people finally get three of the best locked (uh)
+[00:20.30] Never be another chopper's comin' so let's rock, nigga! (uh)
+[00:22.32] You're on, people got to wonderin' if it's a for sure song
+[00:24.53] Yes, I got another killer makin' a tour strong
+[00:26.64] If you thinkin' of battlin', uh, you're gone!
+[00:49.14] 
+[00:28.74] Nobody can catch him, meet the Speedy Gonzales
+[00:30.21] The beat is a problem
+[00:31.36] And if you got your feet in your mouth
+[00:32.48] You going to have to beat it up out of him
+[00:33.46] It's a lot of 'em, and I mean a lot of 'em
+[00:34.69] And me and N9ne used to follow them
+[00:36.07] I've got to audibly body them
+[00:37.06] This is it, man, the hit-man, the IP Man, karate them
+[00:38.68] And if fans will lift hands, we'll get dancin' out of them
+[00:40.65] And in Kansas advanced to withstand a pile of them
+[00:42.42] Who stands with two hands up movin' the crowd of them
+[01:08.92] 
+[00:44.22] If I ain't makin' sense
+[00:45.38] Then you better sample the amp of it like the bass
+[00:46.67] It ain't ever been a gift for me to heat them, I beat them (then I melt them down)
+[00:49.94] They never heard of us, but look at them turnin' up (uh)
+[00:51.56] I slap the shirt off a super simpleton, make them be impotent
+[00:53.65] If and when I be flippin', niggas be feminine (okay)
+[00:55.44] I said the purpose to pimp a pen
+[00:56.70] And reverse the conditions I'm livin' in
+[00:57.86] And do bigger numbers than Eminem
+[01:14.36] 
+[00:58.91] Gotta be fast, or I'll smash on a nigga
+[01:00.77] With half the cash I'm a little sicker, quicker than you figure
+[01:02.83] (Ice cold) I make them shiver bigger than the winter
+[01:04.89] If you half-ass deliverin' I'm will eat your dinner (yum)
+[01:06.81] Better than mine, oh no, not me, I mean other guys (okay)
+[01:08.44] I jump around, so do that mean that I'm rubberized? (Okay)
+[01:10.22] Me and N9ne master, meaning we murderize
+[01:11.91] We'll bleed them, beat them until they be gone, feed them!
+[01:40.91] 
+[01:13.96] Speedom! (If you wanna go with us)
+[01:15.46] Speedom! (I will leave them in the dust)
+[01:17.35] Speedom! (I must be the one to bust)
+[01:19.71] Speedom! (And I'm going to hit the clutch)
+[01:21.07] Speedom! (If you wanna go with us)
+[01:22.72] Speedom! (I will leave them in the dust)
+[01:24.89] Speedom! (I must be the one to bust)
+[01:26.63] Speedom! (And I'm going to hit the clutch)
+[01:47.63] 
+[01:28.32] Sometimes (go) I feel (go)
+[01:31.97] Like I'll never slow down
+[01:34.59] (Worldwide choppers)
+[01:35.80] Sometimes (go) I feel (go)
+[01:39.31] Like I'll never slow down
+[01:41.82] (Worldwide choppers)
+[01:51.82] 
+[01:43.32] Wait! Before I wreck this beat, let me just check to see
+[01:45.30] If Stephanie Mills left any extra refills
+[01:46.89] Of ecstasy pills next to me, in the seats spilled
+[01:48.36] Or she eat them all with a breakfast drink (you inspect the sink?)
+[01:50.56] I'm in the habit of grabbin' a mic and babblin', I dabble in Vics
+[01:52.64] But I might just swallow my fuckin' Ritalin tablet after tonight
+[01:54.41] I'm grabbin' it right from the medicine cabinet
+[01:56.07] Because that's what it's like, and attackin' it like a Dracula bite
+[01:57.51] Jetpack in a backpack when I write
+[02:14.51] 
+[01:58.52] All this anger pent-up inside
+[01:59.54] I went up inside a Bennigans diner with a cigarette lighter
+[02:00.44] Figured I'd try to set a big enough fire
+[02:02.11] That'll trigger the sprinkler system
+[02:03.55] And I'd escape, but the getaway driver
+[02:05.38] Screwed up my limo, collided with the center divider
+[02:31.38] 
+[02:06.43] I went through the window
+[02:07.76] And ended up being pinned to the side
+[02:08.85] Of a semi fender beside a friend of the guy's wife Brenda
+[02:10.09] The flight attendant from Idaho
+[02:10.92] That took an antenna in the vagina hole
+[02:30.42] 
+[02:12.96] Because when I pick up a pen, I'm venomous
+[02:14.17] And I'm as slick as Dennis the menace
+[02:15.05] Like an evil dental hygienist, sinister
+[02:16.17] You've been yellin' dementedness
+[02:17.30] I invented this, I'm the genesis
+[02:18.27] Eminem is a nemesis to a feminist
+[02:34.77] 
+[02:19.43] Fuckin' smart Alec degenerate, I got Ellen DeGeneres
+[02:20.90] Trying to tell me these men are just full of jealousy, envious
+[02:23.77] Of female independence, hell with a clitoris, hit or miss
+[02:26.25] You will never consider this a bitter disappointment
+[02:27.62] I'll never fail to deliver this
+[02:43.12] 
+[02:28.70] Whatever the weather in this'll be
+[02:29.96] Just like a certificate of authenticity that I'm thinkin' about
+[02:31.42] Just trying to think of the quickest and sickest way
+[02:32.87] To make them picket, I pick a day to be a prick
+[02:34.42] Then I'm pickin' the wickedest shit to say
+[02:36.16] Spit it back on a level, incredible
+[02:37.08] Head full of Red Bull, unforgettable
+[02:38.09] Better believe these beats are edible
+[02:39.07] I consider loose-leaf a vegetable
+[02:55.57] 
+[02:41.00] And I stalk my prey
+[02:42.03] You think you got away? Uh-uh, not today
+[02:42.92] Murder you on a song, and then I'll just say
+[02:44.01] I was with Dr. Dre and Robert Blake, eatin' lobster, steak
+[02:45.38] And coffee cake at a restaurant with Drake
+[02:47.80] And Tech just gotta make sure that our stories corroborate
+[02:49.95] I'm a lot to take, like Kanye walkin' up on the stage
+[02:52.35] For Beyoncé, like it's my job to say
+[02:53.85] That you're not a real artist, but it's my obligation
+[02:55.45] Honest Abe is on his way, you will not escape
+[03:17.95] 
+[02:57.08] Ammunition replenished, the punisher
+[02:58.52] With his gun insured, hundred words
+[02:59.82] In a clip, other words motherfuckers better run
+[03:01.03] If you're not lookin' to get run over by the roadrunner
+[03:02.58] No wonder no one don't want to go
+[03:03.73] And jump in front of a fuckin' runaway locomotive
+[03:05.40] Or get thrown up under it just trying to fuck with the
+[03:32.40] 
+[03:07.32] Speedom! (If you wanna go with us)
+[03:08.93] Speedom! (I will leave them in the dust)
+[03:10.88] Speedom! (I must be the one to bust)
+[03:12.77] Speedom! (And I'm going to hit the clutch)
+[03:14.55] Speedom! (If you wanna go with us)
+[03:16.39] Speedom! (I will leave them in the dust)
+[03:18.03] Speedom! (I must be the one to bust)
+[03:19.97] Speedom! (And I'm going to hit the clutch)
+[03:40.97] 
+[03:21.76] Sometimes (go) I feel (go)
+[03:25.35] Like I'll never slow down
+[03:27.73] (Worldwide choppers)
+[03:29.25] Sometimes (go) I feel (go)
+[03:32.84] Like I'll never slow down
+[03:34.90] (Worldwide choppers)
+[03:44.90] 
+[03:36.76] I'm the fury, the final fight
+[03:38.47] I flip it on fraudulent fellas for feelin' fright
+[03:40.11] I flick it on fire, finish him when the flow in flight
+[03:42.18] Feminine fakers fall, I'm floggin' a foe with a fife
+[03:44.05] Never forget it, I severed the head of a critic
+[03:45.81] I sped up and did it, you trippin' to be a dead epidemic
+[03:47.53] Or wet up a clinic, and make a bloody redder percentage
+[03:49.51] Of an addict who's havin' to get the lead of a cynic
+[04:15.51] 
+[03:51.47] I was never the Devil, I put up a fight up in the industry
+[03:53.39] Pedal to metal, we givin' the light, a lot of energy
+[03:55.29] We reppin', beat checkin' he that be Koba
+[03:57.09] If he's the evil enemy it'll be over
+[03:58.82] Running you down, in front of your town
+[04:00.23] You ever makin' fun of the clown, I'm gunnin' you down
+[04:02.08] We doin' it under the ground, a wonderful sound
+[04:03.85] If anybody come at the hound, no one'll be found, bitch!
+[04:31.85] 
+[04:06.34] Would never be choppin' without Slick Rick
+[04:07.90] I got it from the record "Lick the Balls" and this dick
+[04:09.89] If you never listen to me, you musical misfit
+[04:11.72] Nah, because every time I be droppin' I get bit
+[04:13.68] I'm hearin' a lot of rappers, they tryin' to spit quick
+[04:15.45] But the Middle West got them, and we kill them in this bitch
+[04:17.32] If you ain't in my circle of choppers you missed it
+[04:19.22] Because me and my nigga Twista rule it, and this it
+[04:44.72] 
+[04:23.72] Speedom! (If you wanna go with us)
+[04:25.90] Speedom! (I will leave them in the dust)
+[04:27.77] Speedom! (I must be the one to bust)
+[04:29.75] Speedom! (And I'm going to hit the clutch)
+[04:32.44] Speedom! (If you want to go with us)
+[04:33.71] Speedom! (I will leave them in the dust)
+[04:35.35] Speedom! (I must be the one to bust)
+[04:37.20] Speedom! (And I'm going to hit the clutch)
+[04:58.20] 
+[04:38.88] Sometimes (go) I feel (go)
+[04:42.57] Like I'll never slow down
+[04:44.98] (Worldwide choppers)
+[04:46.44] Sometimes (go) I feel (go)
+[04:49.88] Like I'll never slow down
+[04:52.33] (Worldwide choppers)
+```
